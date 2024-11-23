@@ -7,4 +7,4 @@ ffmpeg \
   -maxrate 1500k \
   -bufsize 1000k \
   -f mp4 \
-  video3.mp4
+  video-ready.mp4
